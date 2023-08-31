@@ -3,13 +3,25 @@ description: >-
   Welcome to the Taxonomy4Good community! We're excited to have you on board as
   we work together to enhance the world of sustainability data. Here's how you
   can get involved and make a meaningful impact
-cover: >-
-  ../.gitbook/assets/Abstract Malachite Marble Positive Motivation Notification
-  Reminder UI Instagram Post.jpeg
+cover: ../.gitbook/assets/GDH Banner.jpeg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 💡 Join The Community
+# 💡 Join The Good Data Hub Community
 
 ### Contribute to Questionnaires
 
@@ -45,4 +57,4 @@ Remember, your contributions, no matter how big or small, have a meaningful impa
 
 \
 \
-/\
+\

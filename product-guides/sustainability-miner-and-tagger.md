@@ -1,4 +1,7 @@
 ---
+cover: >-
+  ../.gitbook/assets/Abstract Malachite Marble Positive Motivation Notification
+  Reminder UI Instagram Post.jpeg
 coverY: 0
 ---
 
