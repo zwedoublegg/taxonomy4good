@@ -1,6 +1,6 @@
 ---
 description: Sustainability Data Insights from Unstructured Text.
-cover: .gitbook/assets/2.jpg
+cover: .gitbook/assets/GDH Banner (1).jpeg
 coverY: 0
 layout:
   cover:
@@ -20,11 +20,7 @@ layout:
 
 # 🪴 Welcome to Good Data Hub
 
-<figure><img src=".gitbook/assets/Untitled design.jpeg" alt=""><figcaption></figcaption></figure>
-
-
-
-
+&#x20;                    ![](<.gitbook/assets/GDH Logo (white background).jpeg>)
 
 {% hint style="success" %}
 **Join the thousands of data scientists working together to simplify sustainability data**&#x20;
@@ -59,16 +55,3 @@ Our project is driven by the goal of reducing the barriers associated with acces
 [our-tools.md](overview/our-tools.md)
 {% endcontent-ref %}
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
