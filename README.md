@@ -36,11 +36,6 @@ Our project is driven by the goal of reducing the barriers associated with acces
 \
 
 
-> "A good job to us is when we get a messege that tells us how much time or money we've saved someone in our community in getting insights from their data"&#x20;
->
-> — [Emily Luskind](https://www.linkedin.com/in/emily-luskind-050b9944/) - Chief Research & Development Officer\
->
-
 > "The conscious consumer is the investor of the future. We wake up and think of ways to make sure the right data speaks to that consumer"
 >
 > — [Zwelakhe Gila ](overview/our-tools.md)- Chief Executive Officer&#x20;
