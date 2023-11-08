@@ -15,3 +15,4 @@
 ***
 
 * [📩 Get in contact with us](get-in-contact-with-us.md)
+* [📬 Thank you for signing up with Good Data Hub!](thank-you-for-signing-up-with-good-data-hub.md)

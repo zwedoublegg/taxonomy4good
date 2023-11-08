@@ -1,6 +1,6 @@
 ---
 description: Sustainability Data Insights from Unstructured Text.
-cover: .gitbook/assets/GDH Banner (1).jpeg
+cover: .gitbook/assets/Screenshot 2023-11-05 at 21.02.06 (1).png
 coverY: 0
 layout:
   cover:
